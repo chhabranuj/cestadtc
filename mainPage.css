@@ -1,0 +1,53 @@
+body{
+    font-family: 'Poppins',
+}
+
+#navBar{
+    border: 2px solid #25383C;
+    background-color: rgb(212, 230, 172);
+    border-radius: 8px;
+
+    padding: 5px 2px;
+    width: 1200px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+ul li{
+    list-style: none;
+}
+
+p,li{
+    font-size:15px;
+    margin-bottom:2px;
+    letter-spacing:2px;
+}
+
+
+#header #navBar #logobakery{
+    float: left;
+    margin-top:10px;
+    margin-left: 15px;
+}
+
+li{
+    display:inline-block;
+    padding:10px;
+    text-transform: uppercase;
+}
+
+#content{
+    text-align: center;
+    margin:250px;
+}
+
+.show-modal{
+    font-size: medium;
+    font-weight: 700;
+    color :black;
+    background-color: rgb(186, 240, 135);
+    border-radius: 30px;
+    padding: 20px 50px;
+    margin: 0px 30px;
+    text-decoration: none;
+}
